@@ -1,3 +1,3 @@
 # googlecolab_prac
 
-練習用です
+googlecolabで作成したものをgithubで管理するための練習用です
